@@ -1,4 +1,4 @@
-# Boas vindas ao meu perfil 💙💙
+# Boas vindas ao meu perfil 
 Meu nome é Jhown Gabriel
 
 Estou estudando na Alura
@@ -11,4 +11,4 @@ alurastartestudante@email.com
 
 
 
-![](https://media1.tenor.com/m/6vjzHxepwDkAAAAC/pout-kiss.gif)
+![]()
